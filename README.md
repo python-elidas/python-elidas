@@ -61,6 +61,12 @@ Analista de Datos y Ciberseguridad y programador de IA <br>En búsqueda de nuevo
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
 
 # 💻 Cybersecurity Analyst:
+### Fundamentals
+![Cyber](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/Fundamenals/Cybersecurity%20-%20The%20Bridge%20School%20-%20Cybersecurity%20Fundamentals%20-%202024-11-20.png?raw=true "Cybersecurity Fundamentals")
+![OSVirt](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/Fundamenals/Cybersecurity%20-%20The%20Bridge%20School%20-%20OS%20%26%20Virtualization%20Fundamentals%20-%202024-11-20.png?raw=true "OS & Virtualization Fundamentals")
+![prog](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/Fundamenals/Cybersecurity%20-%20The%20Bridge%20School%20-%20Programming%20Fundamentals%20-%202024-11-20.png?raw=true "Programming Fundamentals")
+![Crypt](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/Fundamenals/Cybersecurity%20-%20The%20Bridge%20School%20-%20Cryptography%20Fundamentals%20-%202024-11-20.png?raw=true "Cryptography Fundamentals")
+
 ### Red Team
 ![RedTeam](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20RED%20TEAM%20-%202025-01-27.png?raw=true "Red Team")
 ![OSINT](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20OSINT%20Digital%20Analysis%20-%202025-01-27.png?raw=true "OSINT Digital Analysis")
