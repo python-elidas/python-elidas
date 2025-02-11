@@ -5,7 +5,7 @@ Data and Cybersecurity analist and AI programmer <br>Looking for new challenges 
 **ESP**<br>
 Analista de Datos y Ciberseguridad y programador de IA <br>En búsqueda de nuevos retos y conocimientos donde quiera que estén. 
 
-# 💻 Data Analyst:
+# General Knowledge
 ### Programming languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
@@ -25,6 +25,7 @@ Analista de Datos y Ciberseguridad y programador de IA <br>En búsqueda de nuevo
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
+# 💻 Data Analyst:
 ### Data Engineering  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
@@ -59,20 +60,6 @@ Analista de Datos y Ciberseguridad y programador de IA <br>En búsqueda de nuevo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
 
-### Agile and Scrum
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-
-### Image Editing
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
-
-### Others
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
-
 # 💻 Cybersecurity Analyst:
 ### Red Team
 ![RedTeam](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20RED%20TEAM%20-%202025-01-27.png?raw=true "Red Team")
@@ -89,7 +76,22 @@ Analista de Datos y Ciberseguridad y programador de IA <br>En búsqueda de nuevo
 ![AssProt](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/BlueTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Assets%20Protection%20-%202025-01-27.png?raw=true "Assets Protection")
 ![DigFor](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/BlueTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Digital%20Forensics%20-%202025-01-27.png?raw=true "Digital Forensics")
 ![MlwrAnal](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/BlueTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Malware%20Analysis%20-%202025-01-27.png?raw=true "Malware Analysis")
-![SIEM](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/BlueTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Security%20Information%20%26%20Event%20Management%20(SIEM)%20-%202025-01-27.png?raw=true "Security Information & Event Management (SIEM)") 
+![SIEM](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/BlueTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Security%20Information%20%26%20Event%20Management%20(SIEM)%20-%202025-01-27.png?raw=true "Security Information & Event Management (SIEM)")
+
+# Other Knowledge
+### Agile and Scrum
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+
+### Image Editing
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
+
+### Others
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=python-elidas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
