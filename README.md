@@ -3,7 +3,7 @@
 Cybersecurity analist and Data & AI Engeneer <br>Looking for new challenges and knowledge wherever they are.
 
 **ESP**<br>
-Analista de Ciberseguridad e Ibtegiero de Datos e IA <br>En búsqueda de nuevos retos y conocimientos donde quiera que estén. 
+Analista de Ciberseguridad e Ingeniero de Datos e IA <br>En búsqueda de nuevos retos y conocimientos donde quiera que estén. 
 
 # General Knowledge
 ### Programming languages
