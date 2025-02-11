@@ -11,6 +11,8 @@ Analista de Datos y Ciberseguridad y programador de IA <br>En búsqueda de nuevo
 # 💻 Cybersecurity Analist:
 ### Red Team
 ![RedTeam](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20RED%20TEAM%20-%202025-01-27.png?raw=true)
+![OSINT](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20OSINT%20Digital%20Analysis%20-%202025-01-27.png?raw=true)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=python-elidas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
