@@ -84,6 +84,13 @@ Analista de Datos y Ciberseguridad y programador de IA <br>En búsqueda de nuevo
 ![DefEv](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Defenses%20Evasion%20-%202025-01-27.png?raw=true "Defenses Evasion")
 ![latMov](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Lateral%20Movements%20-%202025-01-27.png?raw=true "Lateral Movements")
 
+### Blue Team
+![BlueTeam](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/BlueTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20BLUE%20TEAM%20-%202025-01-27.png?raw=true "Blue Team")
+![AssProt](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/BlueTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Assets%20Protection%20-%202025-01-27.png?raw=true "Assets Protection")
+![DigFor](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/BlueTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Digital%20Forensics%20-%202025-01-27.png?raw=true "Digital Forensics")
+![MlwrAnal](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/BlueTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Malware%20Analysis%20-%202025-01-27.png?raw=true "Malware Analysis")
+![SIEM](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/BlueTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Security%20Information%20%26%20Event%20Management%20(SIEM)%20-%202025-01-27.png?raw=true "Security Information & Event Management (SIEM)") 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=python-elidas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=python-elidas&theme=tokyonight&hide_border=true)<br/>
