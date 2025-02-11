@@ -13,11 +13,11 @@ Analista de Datos y Ciberseguridad y programador de IA <br>En búsqueda de nuevo
 ![RedTeam](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20RED%20TEAM%20-%202025-01-27.png?raw=true)
 ![OSINT](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20OSINT%20Digital%20Analysis%20-%202025-01-27.png?raw=true)
 ![Web&Systems](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Systems%20%26%20Networks%20Vulnerability%20Assessment%20-%202025-01-27.png?raw=true)
-![OSINT](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20OSINT%20Digital%20Analysis%20-%202025-01-27.png?raw=true)
-![OSINT](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20OSINT%20Digital%20Analysis%20-%202025-01-27.png?raw=true)
-![OSINT](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20OSINT%20Digital%20Analysis%20-%202025-01-27.png?raw=true)
-![OSINT](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20OSINT%20Digital%20Analysis%20-%202025-01-27.png?raw=true)
-![OSINT](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20OSINT%20Digital%20Analysis%20-%202025-01-27.png?raw=true)
+![WebApp](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Web%20App%20Vulnerability%20Analysis%20-%202025-01-27.png?raw=true)
+![advMetasploit](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Metasploit%20Advanced%20Exploitation%20-%202025-01-27.png?raw=true)
+![PrivEsc](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Privilege%20Escalation%20-%202025-01-27.png?raw=true)
+![DefEv](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Defenses%20Evasion%20-%202025-01-27.png?raw=true)
+![latMov](https://github.com/python-elidas/Imagenes/blob/main/Bootcamp_Ciber/RedTeam/Cybersecurity%20-%20The%20Bridge%20School%20-%20Lateral%20Movements%20-%202025-01-27.png?raw=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=python-elidas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
